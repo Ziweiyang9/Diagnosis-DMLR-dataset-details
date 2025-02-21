@@ -1,4 +1,4 @@
-# Diagnosis-DMLR-dataset-details
+# Supporting Information for DMLR Manuscript: Preprocessing, Results, and Data Access
 
 ***Data Preprocessing Documentation***
 
